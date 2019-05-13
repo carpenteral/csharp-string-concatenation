@@ -1,0 +1,9 @@
+C:\Dev\git\StringConcatenation\StringConcat\bin\Debug\netstandard2.0\StringConcat.deps.json
+C:\Dev\git\StringConcatenation\StringConcat\bin\Debug\netstandard2.0\StringConcat.dll
+C:\Dev\git\StringConcatenation\StringConcat\bin\Debug\netstandard2.0\StringConcat.pdb
+C:\Dev\git\StringConcatenation\StringConcat\obj\Debug\netstandard2.0\StringConcat.csprojResolveAssemblyReference.cache
+C:\Dev\git\StringConcatenation\StringConcat\obj\Debug\netstandard2.0\StringConcat.csproj.CoreCompileInputs.cache
+C:\Dev\git\StringConcatenation\StringConcat\obj\Debug\netstandard2.0\StringConcat.AssemblyInfoInputs.cache
+C:\Dev\git\StringConcatenation\StringConcat\obj\Debug\netstandard2.0\StringConcat.AssemblyInfo.cs
+C:\Dev\git\StringConcatenation\StringConcat\obj\Debug\netstandard2.0\StringConcat.dll
+C:\Dev\git\StringConcatenation\StringConcat\obj\Debug\netstandard2.0\StringConcat.pdb

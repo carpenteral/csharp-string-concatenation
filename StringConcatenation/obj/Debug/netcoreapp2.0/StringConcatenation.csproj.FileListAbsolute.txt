@@ -1,0 +1,4 @@
+C:\Dev\git\StringConcatenation\StringConcatenation\obj\Debug\netcoreapp2.0\StringConcatenation.csprojResolveAssemblyReference.cache
+C:\Dev\git\StringConcatenation\StringConcatenation\obj\Debug\netcoreapp2.0\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Dev\git\StringConcatenation\StringConcatenation\obj\Debug\netcoreapp2.0\StringConcatenation.AssemblyInfoInputs.cache
+C:\Dev\git\StringConcatenation\StringConcatenation\obj\Debug\netcoreapp2.0\StringConcatenation.AssemblyInfo.cs
