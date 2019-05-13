@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "ZcwJ9sGWOVnccW6CwDFGnfZVtZZBYuBhgEuI2/7G6UH/avm0vT8fhxI0JqgDh0yRdqFrgh06sXU7G7hNUnVmEA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\git\\StringConcatenation\\StringConcat\\StringConcat.csproj",
+      "projectUniqueName": "C:\\Dev\\git\\string-concatenation\\csharp-string-concatenation\\StringConcat\\StringConcat.csproj",
       "projectName": "StringConcat",
-      "projectPath": "C:\\Dev\\git\\StringConcatenation\\StringConcat\\StringConcat.csproj",
+      "projectPath": "C:\\Dev\\git\\string-concatenation\\csharp-string-concatenation\\StringConcat\\StringConcat.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\git\\StringConcatenation\\StringConcat\\obj\\",
+      "outputPath": "C:\\Dev\\git\\string-concatenation\\csharp-string-concatenation\\StringConcat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
